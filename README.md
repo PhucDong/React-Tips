@@ -1,4 +1,4 @@
-# create-react-app-tips
+# React-Tips
 My personal tips for using create-react-app
 
 Last update: 21th April 2019
@@ -40,7 +40,7 @@ my-app
         - components
             - Navbar.js
             - MainContent.js
-            
+
 
 ## Using arrow functions to replace using of .bind(this) in instructor()
 
