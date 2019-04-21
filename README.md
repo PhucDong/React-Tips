@@ -5,12 +5,23 @@ Last update: 21th April 2019
 
 
 ## Installation
+
+### create-react-app
 ```
 npm init react-app my-app
 ```
 
+### Bootstrap
+```
+npm install --save bootstrap
+```
 
-## Starting a local server
+### React Router
+```
+npm install react-router-dom
+```
+
+## Starting the project with a local server
 ```
 npm start
 ```
