@@ -14,6 +14,11 @@ npm init react-app my-app
 ### Bootstrap
 ```
 npm install --save bootstrap
+
+```
+#### Import Bootstrap
+```
+import 'bootstrap/dist/css/bootstrap.min.css'
 ```
 
 ### React Router
