@@ -1,7 +1,7 @@
 # React-Tips
 My personal tips for using create-react-app
 
-Last update: 21th April 2019
+Last update: 24th April 2019
 
 
 ## Installation
@@ -24,6 +24,16 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 ### React Router
 ```
 npm install react-router-dom
+```
+
+### Styled components
+```
+npm install --save styled-components
+```
+
+#### Import styled components
+```
+import styled from "styled-components"
 ```
 
 ## Starting the project with a local server
