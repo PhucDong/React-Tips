@@ -3,6 +3,7 @@ My personal tips for using create-react-app
 
 Last update: 24th April 2019
 
+<br/>
 
 ## Installation
 
@@ -10,31 +11,34 @@ Last update: 24th April 2019
 ```
 npm init react-app my-app
 ```
+<br/>
+
 
 ### Bootstrap
 ```
 npm install --save bootstrap
-
 ```
-#### Import Bootstrap
+
 ```
 import 'bootstrap/dist/css/bootstrap.min.css'
 ```
+<br/>
 
 ### React Router
 ```
 npm install react-router-dom
 ```
+<br/>
 
 ### Styled components
 ```
 npm install --save styled-components
 ```
 
-#### Import styled components
 ```
 import styled from "styled-components"
 ```
+<br/>
 
 ## Starting the project with a local server
 ```
@@ -55,7 +59,7 @@ To
 ```
 "scripts": { "start": "set PORT=3001 && react-scripts start" }
 ```
-
+<br/>
 
 ## Storing your components folder in src
 
@@ -67,6 +71,7 @@ my-app
             - Navbar.js
             - MainContent.js
 
+<br/>
 
 ## Using arrow functions to replace using of .bind(this) in instructor()
 
